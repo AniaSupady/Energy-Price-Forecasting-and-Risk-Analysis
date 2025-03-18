@@ -1,6 +1,7 @@
 # Energy-Price-Forecasting-and-Risk-Analysis
 Energy Price Forecasting: Compares ARIMA, SARIMA, XGBoost, Random Forest, and ensemble models for predicting energy prices. Includes feature engineering, model evaluation, and risk assessment.
-# https://github.com/AniaSupady/Energy-Price-Forecasting-and-Risk-Analysis/blob/main/Energy_Price_Forecasting.ipynb
+
+https://github.com/AniaSupady/Energy-Price-Forecasting-and-Risk-Analysis/blob/main/Energy_Price_Forecasting.ipynb
 
 
 # Energy Price Forecasting Model Comparison
